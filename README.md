@@ -3,6 +3,7 @@ Objective:
 The objective of this Tableau project is to showcase data storytelling, visualization techniques, and dashboard creation using the India Air Quality dataset sourced from Kaggle. Through this visualization, I aim to demonstrate my Tableau skills and provide insights that could be beneficial to others interested in data visualization.
 
 Data Set Link: https://www.kaggle.com/shrutibhargava94/india-air-quality-data
+Link To Dashboard: https://public.tableau.com/views/Dashboard_17055683192560/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Dataset Overview:
 The India Air Quality dataset comprises historical daily ambient air quality data collected across various states and cities in India. It is a consolidated and mostly clean version of data released by the Ministry of Environment and Forests and Central Pollution Control Board of India under the National Data Sharing and Accessibility Policy (NDSAP).
